@@ -1,0 +1,31 @@
+
+
+.backg{
+  color: white;
+  text-align: center;
+  background-color: orange;
+  border: 1px solid white;
+  padding: 5%;
+  margin-top: 5%;
+  margin-left: 10%;
+  width: 40%;
+  height: 100%;
+}
+h2{
+  color:white;
+}
+.uilist{
+ 
+  color: white;
+  /* text-align: center; */
+  display: flex;
+  margin-left: 40%;
+}
+.btn{
+    background-color: greenyellow;
+    color: white;
+}
+.btn:hover{
+  background-color: skyblue;
+}
+
